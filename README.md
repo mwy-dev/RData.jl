@@ -1,6 +1,6 @@
 # RData.jl
 
-[![Julia 0.6 Status](http://pkg.julialang.org/badges/RData_0.6.svg)](http://pkg.julialang.org/?pkg=RData&ver=0.6)
+[Julia RData](https://juliapackages.com/p/rdata)
 
 [![Coverage Status](https://coveralls.io/repos/github/JuliaData/RData.jl/badge.svg?branch=master)](https://coveralls.io/github/JuliaData/RData.jl?branch=master)
 [![Build Status](https://travis-ci.org/JuliaData/RData.jl.svg?branch=master)](https://travis-ci.org/JuliaData/RData.jl)
